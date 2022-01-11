@@ -72924,7 +72924,14 @@
       "logoURI": "https://raw.githubusercontent.com/TheXeniumToken/Xenium/main/logo.png",
       "tags": [
         "social-token"
-      ]
+      ],
+      "extensions": {
+        "description": "The Xenium Ecosystem plans to give users a key into Web3 through the usage of dApps.",
+        "website": "http://xenium.online",
+        "twitter": "https://twitter.com/XeniumToken", 
+        "instagram": "https://www.instagram.com/XeniumToken",
+        "github": "https://github.com/TheXeniumToken"
+      }
     },
     {
       "chainId": 101,
